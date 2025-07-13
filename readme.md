@@ -1,3 +1,3 @@
 # huong dan cai dat
 
-# tinh nang cuau phan mem 
+# tinh nang cua phan mem 
